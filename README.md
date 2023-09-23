@@ -9,6 +9,7 @@ then use pip instead of Anaconda.
 For this you have to open a Command prompt (if Windows user) or terminal (for MAC users) and type the command:
 
 pip3 install jupyter
+
 or
 
 pip install jupyter
