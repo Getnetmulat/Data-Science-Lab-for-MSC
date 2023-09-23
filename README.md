@@ -19,6 +19,7 @@ This will at once install Python as well as Jupyter notebook and other commonly 
 The official website for this is: www.jupyter.org
 
 ###########################################################################
+
 You can run the notebook document step-by-step (one cell a time) by pressing shift + enter.
 You can run the whole notebook in a single step by clicking on the menu Cell -> Run All.
 To restart the kernel (i.e. the computational engine), click on the menu Kernel -> Restart.
