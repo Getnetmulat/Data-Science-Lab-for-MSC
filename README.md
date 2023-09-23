@@ -1,5 +1,5 @@
 # Data-Science-Lab-for-MSC
-#Stup Jupyter Nootbook
+#Setup Jupyter Notebook
 Ensure that you are using Python latest version for this tutorial with Anaconda distribution.
 
 So now let us install Jupyter notebook, follow the steps:
